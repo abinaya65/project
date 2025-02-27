@@ -1,0 +1,32 @@
+/* .buton{
+    color: rgb(14, 12, 12);
+    background-color: rgb(165, 152, 152);
+    height: 50px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+
+.body{
+    background-color: rgb(92, 7, 54);
+
+}
+.box1{
+    height: 250px;
+    width: 150px;
+    background-color: coral;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    box-shadow: 10px 10px 14px 8px rgba(0,0,0,0.75);
+} */
+ .box{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+ }
+ 
